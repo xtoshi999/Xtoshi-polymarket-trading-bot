@@ -96,9 +96,10 @@ MIN_EDGE=0.02
 
 ## 📬 Contact
 
-- DM for demo  
+- DM for your own Profitable Polymarket Strategy Bot 
 - Custom bot development available  
-
+- Whatsapp: +1 (945) 392-9998
+- Telegram: https://t.me/xtoshi999
 ---
 
 ## ⚠️ Disclaimer
